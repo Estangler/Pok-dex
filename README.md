@@ -1,3 +1,5 @@
+<img width="1899" height="970" alt="image" src="https://github.com/user-attachments/assets/28ee44c3-f4a8-408b-89ba-e3baa2976cc2" />
+
 # 🔥 Pokédex - React + TypeScript
 
 Uma Pokédex interativa consumindo a API pública PokéAPI, desenvolvida com foco em boas práticas de front-end, performance e experiência do usuário.
@@ -106,8 +108,7 @@ Durante o desenvolvimento, foram reforçados conceitos importantes como:
 
 ## 📌 Autor
 
-Feito por você 👊
-(Adicione seu LinkedIn aqui)
+Feito por Estangler 👊
 
 ---
 
