@@ -4,11 +4,6 @@
 
 Uma Pokédex interativa consumindo a API pública PokéAPI, desenvolvida com foco em boas práticas de front-end, performance e experiência do usuário.
 
----
-
-## 🚀 Demonstração
-
-👉 (adicione aqui o link do deploy - Vercel/Netlify)
 
 ---
 
