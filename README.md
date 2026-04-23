@@ -39,17 +39,6 @@ A aplicação permite buscar Pokémons por nome, visualizar seus tipos e exibir 
 * ⚡ Consumo de dados com `Promise.all`
 * 🎯 Filtro em tempo real
 
----
-
-## 🧩 Estrutura do projeto
-
-```
-src/
- ├── components/
- ├── services/
- ├── types/
- ├── App.tsx
-```
 
 ---
 
